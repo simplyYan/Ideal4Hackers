@@ -1,2 +1,2 @@
 # Ideal4Hackers
-I4H is a course/ebook to learn hacking, with dozens of powerful and diverse tools.
+Use the /COURSE directory to browse the course. The most recommended operating system for hacking is Parrot OS (Security) and Kali Linux.
